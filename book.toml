@@ -1,0 +1,18 @@
+[book]
+authors = ["Leclowndu93150", "OpenAI Codex"]
+language = "en"
+src = "src"
+title = "1.21.1 to 26.1 Porting Primers"
+description = "A topic-indexed NeoForge porting guide and upstream primer archive for migrating from 1.21.1 to 26.1."
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/Leclowndu93150/Porting-Primers"
+site-url = "/Porting-Primers/"
+edit-url-template = "https://github.com/Leclowndu93150/Porting-Primers/edit/main/{path}"
+no-section-label = true
+additional-css = []
+
+[output.html.search]
+enable = false
