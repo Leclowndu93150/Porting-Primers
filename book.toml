@@ -12,7 +12,7 @@ git-repository-url = "https://github.com/Leclowndu93150/Porting-Primers"
 site-url = "/Porting-Primers/"
 edit-url-template = "https://github.com/Leclowndu93150/Porting-Primers/edit/main/{path}"
 no-section-label = true
-additional-css = []
+additional-css = ["theme/gitbook.css"]
 
 [output.html.search]
 enable = false
