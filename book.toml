@@ -15,4 +15,4 @@ no-section-label = true
 additional-css = ["theme/gitbook.css"]
 
 [output.html.search]
-enable = false
+enable = true
